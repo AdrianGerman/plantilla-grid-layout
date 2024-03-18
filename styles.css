@@ -59,7 +59,7 @@ body {
 .item-5 {
   border: 4px solid var(--purple);
   grid-column: 7 / 10;
-  grid-row: 3 /8;
+  grid-row: 3 / 9;
 }
 
 .item-6 {
